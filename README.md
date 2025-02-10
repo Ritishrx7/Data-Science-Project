@@ -1,5 +1,5 @@
 # Socioeconomic Differences Between Bourgogne and Franche-Comté Regions in 2012: A PCA Analysis  
-*Data Analysis Lecture - Master 1 in Modelisation Statistique*  
+*Data Analysis Lecture - Master's 1 in Applied Mathematics with Statistical Modelling*  
 Université Franche-Comté, Besançon (2022–2023)  
 
 ## **Project Overview**  
